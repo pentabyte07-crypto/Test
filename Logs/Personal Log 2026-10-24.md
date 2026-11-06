@@ -1,0 +1,1 @@
+File contents are prepared locally; the repository connector's file upload action accepts UTF-8 text only.
